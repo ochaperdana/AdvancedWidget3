@@ -6,4 +6,7 @@
 <br>Sekolah : SMK Telkom Malang
 <br>NIS : 4796/1515.070</h3>
 <h1>Screenshots</h1>
-![Screenshot](https://docs.google.com/uc?id=0B09XALl5QufvQTdSSFhzRHhSdVk)
+![Screenshot 1](https://docs.google.com/uc?id=0B09XALl5QufvQTdSSFhzRHhSdVk)
+![Screenshot 2](https://docs.google.com/uc?id=0B09XALl5QufvNENIemNicXJDUzg)
+<h1>Link Aplikasi</h1>
+https://drive.google.com/open?id=0B09XALl5QufvTk5lMC1NMlloT2c
